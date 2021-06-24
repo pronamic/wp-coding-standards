@@ -1,0 +1,44 @@
+{
+	"name": "pronamic/wp-coding-standards",
+	"description": "Pronamic WordPress WordPress Coding Standards for PHP_CodeSniffer.",
+	"keywords": [
+		"phpcs",
+		"standards",
+		"wordpress",
+		"pronamic"
+	],
+	"homepage": "https://github.com/pronamic/wp-coding-standards",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+		{
+			"name": "Pronamic",
+			"email": "info@pronamic.eu",
+			"homepage": "https://www.pronamic.eu/",
+			"role": "Company"
+		},
+		{
+			"name": "Remco Tolsma",
+			"email": "info@remcotolsma.nl",
+			"homepage": "https://www.remcotolsma.nl/",
+			"role": "Developer"
+		}
+	],
+	"type" : "phpcodesniffer-standard",
+	"support": {
+		"issues": "https://github.com/pronamic/wp-coding-standards/issues",
+		"source": "https://github.com/pronamic/wp-coding-standards"
+	},
+	"config": {
+		"sort-packages": true
+	},
+	"require": {
+		"php": ">=5.6.20",
+		"automattic/vipwpcs": "^2.3",
+		"dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
+		"phpcompatibility/phpcompatibility-wp": "^2.1",
+		"sirbrillig/phpcs-variable-analysis": "^2.11",
+		"squizlabs/php_codesniffer": "^3.6",
+		"wp-coding-standards/wpcs": "^2.3"
+	},
+	"prefer-stable": true
+}
