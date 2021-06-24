@@ -2,7 +2,7 @@
 
 <ruleset
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	name="Pronamic WordPress WordPress Coding Standards"
+	name="PronamicWP"
 	xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/squizlabs/PHP_CodeSniffer/master/phpcs.xsd"
 >
 	<description>Pronamic WordPress WordPress Coding Standards</description>
