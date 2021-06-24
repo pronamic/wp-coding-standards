@@ -18,9 +18,9 @@
 
 	<!-- Exclude files relative to the root of the project -->
 	<!-- @link https://github.com/squizlabs/PHP_CodeSniffer/issues/981 -->
-	<exclude-pattern type="relative">^/vendor/*</exclude-pattern>
-	<exclude-pattern type="relative">^/vendor-bin/*</exclude-pattern>
-	<exclude-pattern type="relative">^/wordpress/*</exclude-pattern>
+	<exclude-pattern type="relative">^vendor/*</exclude-pattern>
+	<exclude-pattern type="relative">^vendor-bin/*</exclude-pattern>
+	<exclude-pattern type="relative">^wordpress/*</exclude-pattern>
 
 	<rule ref="PHPCompatibilityWP" />
 	<rule ref="VariableAnalysis" />
