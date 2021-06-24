@@ -14,8 +14,6 @@
 	<arg name="parallel" value="8" />
 	<arg value="sp" />
 
-	<file>.</file>
-
 	<exclude-pattern>vendor/*</exclude-pattern>
 	<exclude-pattern>vendor-bin/*</exclude-pattern>
 	<exclude-pattern>wordpress/*</exclude-pattern>
