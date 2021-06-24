@@ -14,11 +14,20 @@
 	<arg name="parallel" value="8" />
 	<arg value="sp" />
 
+	<file>.</file>
+
 	<exclude-pattern>vendor/*</exclude-pattern>
 	<exclude-pattern>vendor-bin/*</exclude-pattern>
 	<exclude-pattern>wordpress/*</exclude-pattern>
 
-	<rule ref="WordPress">
+	<rule ref="PHPCompatibilityWP" />
+	<rule ref="VariableAnalysis" />
 
+	<rule ref="WordPress">
+		<exclude name="WordPress.Files.FileName.InvalidClassFileName" />
+		<exclude name="WordPress.Files.FileName.NotHyphenatedLowercase" />
 	</rule>
+
+	<rule ref="WordPressVIPMinimum" />
+	<rule ref="WordPress-VIP-Go" />
 </ruleset>
