@@ -16,9 +16,11 @@
 	<arg name="parallel" value="8" />
 	<arg value="sp" />
 
-	<exclude-pattern>vendor/*</exclude-pattern>
-	<exclude-pattern>vendor-bin/*</exclude-pattern>
-	<exclude-pattern>wordpress/*</exclude-pattern>
+	<!-- Exclude files relative to the root of the project -->
+	<!-- @link https://github.com/squizlabs/PHP_CodeSniffer/issues/981 -->
+	<exclude-pattern type="relative">^/vendor/*</exclude-pattern>
+	<exclude-pattern type="relative">^/vendor-bin/*</exclude-pattern>
+	<exclude-pattern type="relative">^/wordpress/*</exclude-pattern>
 
 	<rule ref="PHPCompatibilityWP" />
 	<rule ref="VariableAnalysis" />
