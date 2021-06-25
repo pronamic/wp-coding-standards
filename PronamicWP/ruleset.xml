@@ -29,6 +29,10 @@
 	<!-- Exclude files relative to the root of the project -->
 	<!-- @link https://github.com/squizlabs/PHP_CodeSniffer/issues/981 -->
 
+	<!-- Exclude the `bower` `bower_components` folder. -->
+	<!-- @link https://bower.io/ -->
+	<exclude-pattern type="relative">^bower_components/*</exclude-pattern>
+
 	<!-- Exclude the `npm` `node_modules` folder. -->
 	<!-- @link https://docs.npmjs.com/cli/v7/configuring-npm/folders -->
 	<exclude-pattern type="relative">^node_modules/*</exclude-pattern>

@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added `WordPress-VIP-Go` rule.
 - Excluded `WordPress.Files.FileName.InvalidClassFileName` sniff.
 - Excluded `WordPress.Files.FileName.NotHyphenatedLowercase` sniff.
+- Added relative exclude pattern `^bower_components/*` for the `bower_components` folder.
 - Added relative exclude pattern `^node_modules/*` for the `node_modules` folder.
 - Added relative exclude pattern `^vendor/*` for the `vendor` folder.
 - Added relative exclude pattern `^vendor-bin/*` for the `vendor-bin` folder.
