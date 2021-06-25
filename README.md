@@ -1,6 +1,6 @@
-# Pronamic WordPress WordPress Coding Standards
+# Pronamic WordPress Coding Standards
 
-Pronamic WordPress WordPress Coding Standards for PHP_CodeSniffer.
+Pronamic WordPress Coding Standards for PHP_CodeSniffer.
 
 ## PHP_CodeSniffer
 
