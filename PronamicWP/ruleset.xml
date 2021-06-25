@@ -49,14 +49,23 @@
 	<!-- @link https://wpackagist.org/ -->
 	<exclude-pattern type="relative">^wp-content/*</exclude-pattern>
 
+	<!-- @link https://github.com/pronamic/wp-coding-standards/tree/develop#phpcompatibilitywp -->
 	<rule ref="PHPCompatibilityWP" />
+
+	<!-- @link https://github.com/pronamic/wp-coding-standards/tree/develop#variableanalysis -->
 	<rule ref="VariableAnalysis" />
 
 	<rule ref="WordPress">
+		<!-- @link https://github.com/pronamic/wp-coding-standards/tree/main#wordpressfilesfilenameinvalidclassfilename -->
 		<exclude name="WordPress.Files.FileName.InvalidClassFileName" />
+
+		<!-- @link https://github.com/pronamic/wp-coding-standards/tree/main#wordpressfilesfilenamenothyphenatedlowercase -->
 		<exclude name="WordPress.Files.FileName.NotHyphenatedLowercase" />
 	</rule>
 
+	<!-- @link https://github.com/pronamic/wp-coding-standards/tree/main#wordpressvipminimum -->
 	<rule ref="WordPressVIPMinimum" />
+
+	<!-- @link https://github.com/pronamic/wp-coding-standards/tree/develop#wordpress-vip-go -->
 	<rule ref="WordPress-VIP-Go" />
 </ruleset>
