@@ -121,4 +121,8 @@ According to the WordPress PHP Coding Standards:
 
 _Source:_ https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/#naming-conventions
 
+```
+Filenames should be all lowercase with hyphens as word separators. Expected test.php, but found Test.php.
+```
+
 We often use the [PSR-4](https://www.php-fig.org/psr/psr-4/) autoloading mechanism and therefore deviate from it.
