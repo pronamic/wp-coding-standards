@@ -15,7 +15,7 @@ https://github.com/squizlabs/PHP_CodeSniffer/wiki/Usage
 By default use colors in output.
 
 ```xml
-<arg name="colors"/>
+<arg name="colors" />
 ```
 
 #### `extensions`

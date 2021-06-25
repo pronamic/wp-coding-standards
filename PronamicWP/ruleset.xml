@@ -8,7 +8,7 @@
 	<description>Pronamic WordPress WordPress Coding Standards</description>
 
 	<!-- Use colors in output. -->
-	<arg name="colors"/>
+	<arg name="colors" />
 
 	<!-- A comma separated list of file extensions to check. -->
 	<arg name="extensions" value="php" />
