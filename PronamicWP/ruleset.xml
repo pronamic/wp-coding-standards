@@ -21,10 +21,10 @@
 
 	<!-- Minimum WordPress version to check. -->
 	<!-- @link https://github.com/WordPress/WordPress-Coding-Standards/wiki/Customizable-sniff-properties#minimum-wp-version-to-check-for-usage-of-deprecated-functions-classes-and-function-parameters -->
-	<config name="minimum_supported_wp_version" value="4.7" />
+	<config name="minimum_supported_wp_version" value="5.7" />
 
 	<!-- PHP compatibility test version 5.6 and higher. -->
-	<config name="testVersion" value="5.6-" />
+	<config name="testVersion" value="7.4-" />
 
 	<!-- Exclude files relative to the root of the project -->
 	<!-- @link https://github.com/squizlabs/PHP_CodeSniffer/issues/981 -->
