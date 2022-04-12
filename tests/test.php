@@ -5,4 +5,8 @@
  * @package PronamicWP
  */
 
-$test = array();
+$test = [
+	'a',
+	'b',
+	'c',
+];
