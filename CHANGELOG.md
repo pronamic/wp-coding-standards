@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2022-04-12
+### Changed
+- We deviate from the WordPress Coding Standards and switch to the short array syntax.
+
 ## [1.1.0] - 2022-02-17
 ### Changed
 - Updated minimum WordPress version to `5.7`: https://codex.wordpress.org/Supported_Versions.
@@ -27,6 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added relative exclude pattern `^wordpress/*` for the `wordpress` folder.
 - Added relative exclude pattern `^wp-content/*` for the `wp-content` folder.
 
-[Unreleased]: https://github.com/pronamic/wp-coding-standards/compare/1.1.0...HEAD
+[Unreleased]: https://github.com/pronamic/wp-coding-standards/compare/1.2.0...HEAD
+[1.2.0]: https://github.com/pronamic/wp-coding-standards/compare/1.1.0...1.2.0
 [1.1.0]: https://github.com/pronamic/wp-coding-standards/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/pronamic/wp-coding-standards/releases/tag/1.0.0
