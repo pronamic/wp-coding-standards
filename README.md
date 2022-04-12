@@ -127,4 +127,20 @@ Filenames should be all lowercase with hyphens as word separators. Expected test
 
 We often use the [PSR-4](https://www.php-fig.org/psr/psr-4/) autoloading mechanism and therefore deviate from it.
 
+### `Generic.Arrays.DisallowShortArraySyntax`
+
+According to the WordPress PHP Coding Standards:
+
+> Using long array syntax ( `array( 1, 2, 3 )` ) for declaring arrays is generally more readable than short array syntax ( `[ 1, 2, 3 ]` ), particularly for those with vision difficulties. Additionally, it’s much more descriptive for beginners.
+> 
+> Arrays must be declared using long array syntax.
+
+_Source:_ https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/#declaring-arrays
+
+This change can be done using [PHP Coding Standards Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer):
+
+```
+php-cs-fixer fix --rules @PHP54Migration ./src/
+```
+
 [![Pronamic - Work with us](https://github.com/pronamic/brand-resources/blob/main/banners/pronamic-work-with-us-leaderboard-728x90%404x.png)](https://www.pronamic.eu/contact/)
