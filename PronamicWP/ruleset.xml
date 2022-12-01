@@ -26,6 +26,11 @@
 	<!-- PHP compatibility test version 5.6 and higher. -->
 	<config name="testVersion" value="7.4-" />
 
+	<!-- Fix `trim` error on PHP 8.1 -->
+	<!-- @link https://github.com/pronamic/wp-coding-standards/issues/1 -->
+	<config name="prefixes" value="" />
+	<config name="text_domain" value="" />
+
 	<!-- Exclude files relative to the root of the project -->
 	<!-- @link https://github.com/squizlabs/PHP_CodeSniffer/issues/981 -->
 
