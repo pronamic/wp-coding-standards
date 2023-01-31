@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.1] - 2023-01-31
+- For now allow PHP `7.4`.
+
 ## [1.3.0] - 2022-12-01
 ### Changed
 - Updated minimum WordPress version to `5.9`: https://codex.wordpress.org/Supported_Versions.
