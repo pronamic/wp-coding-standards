@@ -162,10 +162,4 @@ According to the WordPress PHP Coding Standards:
 
 _Source:_ https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/#declaring-arrays
 
-This change can be done using [PHP Coding Standards Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer):
-
-```
-php-cs-fixer fix --rules @PHP54Migration ./src/
-```
-
 [![Pronamic - Work with us](https://github.com/pronamic/brand-resources/blob/main/banners/pronamic-work-with-us-leaderboard-728x90%404x.png)](https://www.pronamic.eu/contact/)
