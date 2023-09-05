@@ -36,12 +36,12 @@
 	},
 	"require": {
 		"php": ">=7.4",
-		"automattic/vipwpcs": "^2.3",
-		"dealerdirect/phpcodesniffer-composer-installer": "^0.7.2",
+		"automattic/vipwpcs": "^3.0",
+		"dealerdirect/phpcodesniffer-composer-installer": "^1.0",
 		"phpcompatibility/phpcompatibility-wp": "^2.1",
 		"sirbrillig/phpcs-variable-analysis": "^2.11",
 		"squizlabs/php_codesniffer": "^3.7",
-		"wp-coding-standards/wpcs": "^2.3"
+		"wp-coding-standards/wpcs": "^3.0"
 	},
 	"prefer-stable": true,
 	"scripts": {

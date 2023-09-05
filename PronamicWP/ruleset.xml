@@ -79,7 +79,7 @@
 	<rule ref="WordPress-VIP-Go" />
 
 	<!-- @link https://make.wordpress.org/core/2019/07/12/php-coding-standards-changes/ -->
-	<rule ref="Generic.Arrays">
-		<exclude name="Generic.Arrays.DisallowShortArraySyntax" />
+	<rule ref="WordPress-Core">
+		<exclude name="Universal.Arrays.DisallowShortArraySyntax" />
 	</rule>
 </ruleset>
