@@ -76,10 +76,10 @@ By default show progress of the run.
 
 https://github.com/PHPCompatibility/PHPCompatibilityWP
 
-By default this package test PHP 5.6 and higher via the following setting:
+By default this package test PHP `8.0` and higher via the following setting:
 
 ```xml
-<config name="testVersion" value="5.6-"/>
+<config name="testVersion" value="8.0-"/>
 ```
 
 ### PHPCompatibility
@@ -92,10 +92,10 @@ Required through `PHPCompatibilityWP`.
 
 https://github.com/WordPress/WordPress-Coding-Standards
 
-By default the minimum WordPress version to check is set to `4.7` via the following setting:
+By default the minimum WordPress version to check is set to `6.1` via the following setting:
 
 ```xml
-<config name="minimum_supported_wp_version" value="4.7" />
+<config name="minimum_supported_wp_version" value="6.1" />
 ```
 
 https://github.com/WordPress/WordPress-Coding-Standards/wiki/Customizable-sniff-properties#minimum-wp-version-to-check-for-usage-of-deprecated-functions-classes-and-function-parameters
