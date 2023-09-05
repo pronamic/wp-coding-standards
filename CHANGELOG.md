@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.0.0] - 2023-09-05
 - Update to WordPress coding standards version `3.0.0`: https://github.com/WordPress/WordPress-Coding-Standards/releases/tag/3.0.0.
 - Update to WordPress VIP coding standards version `3.0.0`: https://github.com/Automattic/VIP-Coding-Standards/releases/tag/3.0.0
+- Increased minimum WordPress version to `6.1`.
+- Increased minimum PHP version to `8.0`.
 
 ## [1.3.1] - 2023-01-31
 - For now allow PHP `7.4`.
