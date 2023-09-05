@@ -2,6 +2,31 @@
 
 Pronamic WordPress Coding Standards for PHP_CodeSniffer.
 
+## Versions
+
+We try to provide support for the last 3 major releases of PHP and WordPress in our projects.
+
+### PHP
+
+- `8.2`
+- `8.1`
+- `8.0`
+
+https://www.php.net/supported-versions.php
+
+### WordPress
+
+- `6.3`
+- `6.2`
+- `6.1`
+
+https://codex.wordpress.org/WordPress_Versions
+
+### Other
+
+- https://make.wordpress.org/core/handbook/best-practices/browser-support/
+- https://make.wordpress.org/core/handbook/references/php-compatibility-and-wordpress-versions/
+
 ## PHP_CodeSniffer
 
 https://github.com/squizlabs/PHP_CodeSniffer
