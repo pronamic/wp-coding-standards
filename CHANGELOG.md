@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.1] - 2023-09-11
+- Changed config `minimum_supported_version` to `minimum_wp_version`: https://github.com/WordPress/WordPress-Coding-Standards/wiki/Customizable-sniff-properties.
+
 ## [2.0.0] - 2023-09-05
 - Update to WordPress coding standards version `3.0.0`: https://github.com/WordPress/WordPress-Coding-Standards/releases/tag/3.0.0.
 - Update to WordPress VIP coding standards version `3.0.0`: https://github.com/Automattic/VIP-Coding-Standards/releases/tag/3.0.0
@@ -48,7 +51,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added relative exclude pattern `^wordpress/*` for the `wordpress` folder.
 - Added relative exclude pattern `^wp-content/*` for the `wp-content` folder.
 
-[Unreleased]: https://github.com/pronamic/wp-coding-standards/compare/2.0.0...HEAD
+[Unreleased]: https://github.com/pronamic/wp-coding-standards/compare/2.0.1...HEAD
+[2.0.1]: https://github.com/pronamic/wp-coding-standards/compare/2.0.0...2.0.1
 [2.0.0]: https://github.com/pronamic/wp-coding-standards/compare/1.3.0...2.0.0
 [1.3.0]: https://github.com/pronamic/wp-coding-standards/compare/1.2.0...1.3.0
 [1.2.0]: https://github.com/pronamic/wp-coding-standards/compare/1.1.0...1.2.0
