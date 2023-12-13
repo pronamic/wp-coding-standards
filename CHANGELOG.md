@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.2] - 2023-12-13
+- Updated to `PHPCSStandards/PHP_CodeSniffer` version `3.8`: https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.8.0.
+- Increased minimum WordPress version to `6.2`.
+- Increased minimum PHP version to `8.1`.
+
 ## [2.0.1] - 2023-09-11
 - Changed config `minimum_supported_version` to `minimum_wp_version`: https://github.com/WordPress/WordPress-Coding-Standards/wiki/Customizable-sniff-properties.
 
