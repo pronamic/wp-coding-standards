@@ -8,17 +8,17 @@ We try to provide support for the last 3 major releases of PHP and WordPress in 
 
 ### PHP
 
+- `8.3`
 - `8.2`
 - `8.1`
-- `8.0`
 
 https://www.php.net/supported-versions.php
 
 ### WordPress
 
+- `6.4`
 - `6.3`
 - `6.2`
-- `6.1`
 
 https://codex.wordpress.org/WordPress_Versions
 
@@ -29,11 +29,11 @@ https://codex.wordpress.org/WordPress_Versions
 
 ## PHP_CodeSniffer
 
-https://github.com/squizlabs/PHP_CodeSniffer
+https://github.com/PHPCSStandards/PHP_CodeSniffer
 
 ### Arguments
 
-https://github.com/squizlabs/PHP_CodeSniffer/wiki/Usage
+https://github.com/PHPCSStandards/PHP_CodeSniffer/wiki/Usage
 
 #### `colors`
 
