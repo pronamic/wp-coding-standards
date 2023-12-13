@@ -23,7 +23,7 @@
 			"role": "Developer"
 		}
 	],
-	"type" : "phpcodesniffer-standard",
+	"type": "phpcodesniffer-standard",
 	"support": {
 		"issues": "https://github.com/pronamic/wp-coding-standards/issues",
 		"source": "https://github.com/pronamic/wp-coding-standards"
