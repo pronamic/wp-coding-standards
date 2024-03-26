@@ -21,7 +21,7 @@
 
 	<!-- Minimum WordPress version to check. -->
 	<!-- @link https://github.com/WordPress/WordPress-Coding-Standards/wiki/Customizable-sniff-properties#minimum-wp-version-to-check-for-usage-of-deprecated-functions-classes-and-function-parameters -->
-	<config name="minimum_wp_version" value="6.2" />
+	<config name="minimum_wp_version" value="6.3" />
 
 	<!-- PHP compatibility test version. -->
 	<config name="testVersion" value="8.1-" />
