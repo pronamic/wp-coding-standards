@@ -5,7 +5,7 @@
 	name="PronamicWP"
 	xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/squizlabs/PHP_CodeSniffer/master/phpcs.xsd"
 >
-	<description>Pronamic WordPress WordPress Coding Standards</description>
+	<description>Pronamic WordPress Coding Standards</description>
 
 	<!-- Use colors in output. -->
 	<arg name="colors" />
