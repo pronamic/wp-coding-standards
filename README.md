@@ -8,9 +8,9 @@ We try to provide support for the last 3 major releases of PHP and WordPress in 
 
 ### PHP
 
+- `8.4`
 - `8.3`
 - `8.2`
-- `8.1`
 
 https://www.php.net/supported-versions.php
 
