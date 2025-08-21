@@ -6,6 +6,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.4.0] - 2025-08-21
+- Increased minimum WordPress version to `6.6`.
+- Updated `dealerdirect/phpcodesniffer-composer-installer` from `^1.0` to `^1.1`.
+  - https://github.com/PHPCSStandards/composer-installer/releases/tag/v1.1.0
+  - https://github.com/PHPCSStandards/composer-installer/releases/tag/v1.1.1
+  - https://github.com/PHPCSStandards/composer-installer/releases/tag/v1.1.2
+- Updated `sirbrillig/phpcs-variable-analysis` from `^2.11` to `^2.12`.
+  - https://github.com/sirbrillig/phpcs-variable-analysis/releases/tag/v2.12.0
+- Updated `squizlabs/php_codesniffer` from `^3.9` to `^3.13`.
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.0
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.1
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.2
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.10.3
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.0
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.1
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.2
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.11.3
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.0
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.1
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.12.2
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.13.0
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.13.1
+  - https://github.com/PHPCSStandards/PHP_CodeSniffer/releases/tag/3.13.2
+- Updated `wp-coding-standards/wpcs` from `^3.1` to `^3.2`.
+  - https://github.com/WordPress/WordPress-Coding-Standards/releases/tag/3.2.0
+
 ## [2.3.0] - 2024-12-19
 - Increased minimum WordPress version to `6.5`.
 - Increased minimum PHP version to `8.2`.
