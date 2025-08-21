@@ -16,9 +16,9 @@ https://www.php.net/supported-versions.php
 
 ### WordPress
 
+- `6.8`
 - `6.7`
 - `6.6`
-- `6.5`
 
 https://codex.wordpress.org/WordPress_Versions
 
