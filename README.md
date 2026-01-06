@@ -92,10 +92,10 @@ Required through `PHPCompatibilityWP`.
 
 https://github.com/WordPress/WordPress-Coding-Standards
 
-By default the minimum WordPress version to check is set to `6.3` via the following setting:
+By default the minimum WordPress version to check is set to `6.7` via the following setting:
 
 ```xml
-<config name="minimum_supported_wp_version" value="6.5" />
+<config name="minimum_supported_wp_version" value="6.7" />
 ```
 
 https://github.com/WordPress/WordPress-Coding-Standards/wiki/Customizable-sniff-properties#minimum-wp-version-to-check-for-usage-of-deprecated-functions-classes-and-function-parameters
