@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.5.0] - 2026-01-06
+- Increased minimum WordPress version to `6.7`.
+- Increased minimum PHP version to `8.3`.
+
 ## [2.4.0] - 2025-08-21
 - Increased minimum WordPress version to `6.6`.
 - Updated `dealerdirect/phpcodesniffer-composer-installer` from `^1.0` to `^1.1`.
@@ -92,7 +96,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added relative exclude pattern `^wordpress/*` for the `wordpress` folder.
 - Added relative exclude pattern `^wp-content/*` for the `wp-content` folder.
 
-[Unreleased]: https://github.com/pronamic/wp-coding-standards/compare/v2.4.0...HEAD
+[Unreleased]: https://github.com/pronamic/wp-coding-standards/compare/v2.5.0...HEAD
+[2.5.0]: https://github.com/pronamic/wp-coding-standards/compare/v2.4.0...v2.5.0
 [2.4.0]: https://github.com/pronamic/wp-coding-standards/compare/v2.3.0...v2.4.0
 [2.3.0]: https://github.com/pronamic/wp-coding-standards/compare/v2.2.0...v2.3.0
 [2.2.0]: https://github.com/pronamic/wp-coding-standards/compare/v2.1.0...v2.2.0
