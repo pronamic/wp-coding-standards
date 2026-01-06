@@ -33,18 +33,18 @@
 			"dealerdirect/phpcodesniffer-composer-installer": true
 		},
 		"platform": {
-			"php": "8.2"
+			"php": "8.3"
 		},
 		"sort-packages": true
 	},
 	"require": {
-		"php": ">=8.2",
+		"php": ">=8.3",
 		"automattic/vipwpcs": "^3.0",
-		"dealerdirect/phpcodesniffer-composer-installer": "^1.1",
+		"dealerdirect/phpcodesniffer-composer-installer": "^1.2",
 		"phpcompatibility/phpcompatibility-wp": "^2.1",
-		"sirbrillig/phpcs-variable-analysis": "^2.12",
+		"sirbrillig/phpcs-variable-analysis": "^2.13",
 		"squizlabs/php_codesniffer": "^3.13",
-		"wp-coding-standards/wpcs": "^3.2"
+		"wp-coding-standards/wpcs": "^3.3"
 	},
 	"prefer-stable": true,
 	"scripts": {
