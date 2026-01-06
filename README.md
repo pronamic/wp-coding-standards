@@ -8,9 +8,9 @@ We try to provide support for the last 3 major releases of PHP and WordPress in 
 
 ### PHP
 
+- `8.5`
 - `8.4`
 - `8.3`
-- `8.2`
 
 https://www.php.net/supported-versions.php
 
@@ -76,10 +76,10 @@ By default show progress of the run.
 
 https://github.com/PHPCompatibility/PHPCompatibilityWP
 
-By default this package test PHP `8.2` and higher via the following setting:
+By default this package test PHP `8.3` and higher via the following setting:
 
 ```xml
-<config name="testVersion" value="8.2-"/>
+<config name="testVersion" value="8.3-"/>
 ```
 
 ### PHPCompatibility

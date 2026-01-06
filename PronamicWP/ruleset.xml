@@ -24,7 +24,7 @@
 	<config name="minimum_wp_version" value="6.6" />
 
 	<!-- PHP compatibility test version. -->
-	<config name="testVersion" value="8.2-" />
+	<config name="testVersion" value="8.3-" />
 
 	<!-- Exclude files relative to the root of the project -->
 	<!-- @link https://github.com/squizlabs/PHP_CodeSniffer/issues/981 -->
